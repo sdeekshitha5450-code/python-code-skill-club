@@ -1,5 +1,0 @@
-types of function
-1.with arg with return
-2.with arg without return
-3.without arg with return
-4.without arg with return
